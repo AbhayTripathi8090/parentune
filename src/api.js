@@ -1,5 +1,4 @@
-const API =
-  "https://qa7.parentune.com/api/blog/blogs/v4/blog?itemId=11144";
+const API = process.env.REACT_APP_API_URL;
 
 export const getBlog = async () => {
   const response = await fetch(API);

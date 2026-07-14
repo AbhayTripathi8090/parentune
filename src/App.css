@@ -239,7 +239,7 @@ img {
 }
 
 .inArticleCard h2 {
-  font-size: 32px;
+  font-size: 28px;
   line-height: 1.15;
   letter-spacing: -0.02em;
 }
@@ -258,7 +258,7 @@ img {
   align-items: start;
   gap: 12px;
   color: #2d8794;
-  font-size: 20px;
+  font-size: 17px;
   line-height: 1.45;
 }
 
